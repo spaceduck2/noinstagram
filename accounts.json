@@ -1,3 +1,10 @@
 [
-  "dmelstrad"
+  {
+    "type": "user",
+    "name": "dimelstrad"
+  },
+  {
+    "type": "hashtag",
+    "name": "fashion"
+  }
 ]
